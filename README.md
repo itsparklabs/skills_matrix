@@ -3,4 +3,5 @@
 
 This document maps technology roles across India, US, Europe, and Global Remote markets using real hiring dynamics, not hype.
 
+<a href="https://itsparklabs.github.io/skills_matrix/" > Click Here for Visit Skill martrix </a>
 
