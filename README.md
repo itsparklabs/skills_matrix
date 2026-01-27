@@ -1,0 +1,2 @@
+# skills_matrix
+ FUTURE-PROOF TECH CAREER SKILL MAP (2026–2035)
